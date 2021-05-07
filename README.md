@@ -1,4 +1,4 @@
-# Live stream from pi camera
+# Live stream using raspberry pi zero and pi camera module
 
 
 
