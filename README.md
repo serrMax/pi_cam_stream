@@ -2,7 +2,7 @@
 
 
 
-This is my room/setup for work/study...
+## This is my room/setup for work/study...
 
 
 
@@ -10,7 +10,7 @@ This is my room/setup for work/study...
 
 
 
-but sometimes when I have to leave for a long time my nephews and nieces play with my laptop, which is not ideal for me as they might delete some important stuff 😓 
+## but sometimes when I have to leave for a long time my nephews and nieces play with my laptop, which is not ideal for me as they might delete some important stuff 😓 
 
 
 
@@ -26,11 +26,11 @@ but sometimes when I have to leave for a long time my nephews and nieces play wi
 
 
 
-Now, I can keep an eye on my laptop even if I am not around 🥳
+## Now, I can keep an eye on my laptop even if I am not around 🥳
 
 
 
-P.S. Kids have no idea about the danger 😉 😂
+## P.S. Kids have no idea about the danger 😉 😂
 
 
 
